@@ -20,6 +20,6 @@
         "kartik-v/yii2-grid": "@dev"
     },
     "autoload": {
-        "psr-4": {"himiklab\\sortablegrid\\": ""}
+        "psr-4": {"pilehead\\sortablegrid\\": ""}
     }
 }
