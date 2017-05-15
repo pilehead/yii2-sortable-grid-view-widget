@@ -1,12 +1,12 @@
 {
-    "name": "himiklab/yii2-sortable-grid-view-widget",
-    "description": "Sortable modification of standard Yii2 GridView widget",
+    "name": "pilehead/yii2-sortable-grid-view-widget",
+    "description": "Sortable modification of Kartik GridView widget",
     "keywords": ["yii2", "sortable", "gridview", "grid", "widget"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "source": "https://github.com/himiklab/yii2-sortable-grid-view-widget",
-        "issues": "https://github.com/himiklab/yii2-sortable-grid-view-widget/issues"
+        "source": "https://github.com/pilehead/yii2-sortable-grid-view-widget",
+        "issues": "https://github.com/pilehead/yii2-sortable-grid-view-widget/issues"
     },
     "authors": [
         {
