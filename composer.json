@@ -17,7 +17,7 @@
     "require": {
         "yiisoft/yii2": "*",
         "yiisoft/yii2-jui": "*",
-        "kartik-v/yii2-grid": "@dev",
+        "kartik-v/yii2-grid": "@dev"
     },
     "autoload": {
         "psr-4": {"himiklab\\sortablegrid\\": ""}
